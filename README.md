@@ -1,7 +1,7 @@
 # ✌️ Hello There, I am Jessie.
 
 ## 💫 About Me:
-🔭 I’m currently working on Project Kelp, a restaurant review site for foodies.<br>⚡ Fun fact - my portfolio website changes color depending on the time you access it.
+🔭 I’m currently working on Project Kelp.<br>⚡ Fun fact - my portfolio website changes color depending on the time you access it.
 
 
 ## 🌐 Socials:
