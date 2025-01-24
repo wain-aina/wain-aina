@@ -1,4 +1,4 @@
-# ✌️ Hello There, I am Jessie.
+# ✌️ Hello There, I'm Jessie.
 
 ## 💫 About Me:
 🔭 I’m currently working on Subterra.<br>⚡ Fun fact - my portfolio website changes color depending on the time you access it.
