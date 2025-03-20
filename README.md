@@ -1,7 +1,7 @@
 # ✌️ Hello There, I'm Jessie.
 
 ## 💫 About Me:
-⚡ Fun fact - my portfolio changes color depending on the time you access it.
+Fun fact - my portfolio changes color depending on the time you access it.
 
 
 ## 🌐 Socials:
